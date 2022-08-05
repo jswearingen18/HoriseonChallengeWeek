@@ -1,0 +1,159 @@
+/*universal selector to keep these properties consistent*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/*body selector to maintain all area of body as same background color*/
+body {
+    background-color: #d9dcd6;
+}
+/* selector to be consistent across all of the header*/
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+/*this is used for all h1 items within header class*/
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+/*selector for span(seo) to make the logo multi colored*/
+.header h1 .seo {
+    color: #d9dcd6;
+}
+/*selects each div within header to be consistent*/
+.header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+}
+/* selctor for a combination of header div ul and li for spacing*/
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+/* all links using a will be a set color with no text decoration*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/* makes all p identifiers a consistent font size*/
+p {
+    font-size: 16px;
+}
+/*selector for office image on page keeping height at 800px and width across 100% of screen*/
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+/* alligns all identifiers with float left to the left of page*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+/* alligns all identifiers with float right to the right of page*/
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+/* selector for content section that makes them take up 75% of screen allowing 25% for benefits section*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/* idenitifier for the benefits section to keep all 3 areas consistent with color and text*/
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+    color: #ffffff;
+}
+/* creates proper spacing for each section in benefits area*/
+.benefit-lead {
+    margin-bottom: 32px;
+}
+/* creates proper spacing for each section in benefits area*/
+.benefit-brand {
+    margin-bottom: 32px;
+}
+/* creates proper spacing for each section in benefits area*/
+.benefit-cost {
+    margin-bottom: 32px;
+}
+/* keeps all h3 in benefits section consistent with text align to center and gap at bottom*/
+.benefits h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+/* keeps all img in benefits section consistent as block style and same width*/
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+/* keeps each div consistent across the page for search engine optimization, online reputation management, and social media marketing*/
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* keeps each div consistent across the page for search engine optimization, online reputation management, and social media marketing*/
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* keeps each div consistent across the page for search engine optimization, online reputation management, and social media marketing*/
+/* when removing one of these it combined all three together so I believe these need to remain seperate*/
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/*keeps all img within content at 200px*/
+.content img {
+    max-height: 200px;
+}
+/*keeps all h2 within content at the same font size and with a marginal gap at bottom*/
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* identifier for the footer section for fonts, text location, and padding gap*/
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+/* selector for font size on footer under the h2 section*/
+.footer h2 {
+    font-size: 20px;
+}
