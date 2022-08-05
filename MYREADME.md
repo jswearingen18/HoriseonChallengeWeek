@@ -1,6 +1,6 @@
 # HoriseonChallengeWeek
 Challenge for boot camp week1
-# Horiseon Challenge
+## Horiseon Challenge
 
 # Description
 Project for week 1 demonstrating knowledge of HTML and condensing CSS.
