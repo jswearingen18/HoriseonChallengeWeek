@@ -9,6 +9,12 @@ ensure smooth and quick functionality. To many elements can make things run chop
 This is also to practice git commands and uploading our 1st project. This also requires 
 some fixes to the HTML and ensuring we understand functionality. 
 
+## Github url link
+https://github.com/jswearingen18/HoriseonChallengeWeek
+
+## Webpage url link
+file:///C:/Users/jswea/OneDrive/Desktop/Coding_Projects/HoriseonChallengeWeek/Develop/index.html
+
 ## Badges
 Horiseon Social Marketing Company
 
