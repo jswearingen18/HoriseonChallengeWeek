@@ -13,8 +13,7 @@ some fixes to the HTML and ensuring we understand functionality.
 Horiseon Social Marketing Company
 
 # Visuals
-![screenshot1 jpg](https://user-images.githubusercontent.com/109003414/182995116-3f013407-6b7d-43aa-a2d5-e5b5ed3f3b44.png)
-![screenshot2 jpg](https://user-images.githubusercontent.com/109003414/182995206-6722897a-1e31-427a-87d8-1e16e2fc089b.png)
+
 # Usage
 Project to practice problem solving with HTML and CSS utilizing a borrowed site of Horiseon Company
 
