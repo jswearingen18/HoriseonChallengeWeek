@@ -10,7 +10,7 @@ This is also to practice git commands and uploading our 1st project. This also r
 some fixes to the HTML and ensuring we understand functionality. 
 
 ## Github url link
-https://github.com/jswearingen18/HoriseonChallengeWeek
+https://jswearingen18.github.io/HoriseonChallengeWeek/
 
 ## Webpage url link
 file:///C:/Users/jswea/OneDrive/Desktop/Coding_Projects/HoriseonChallengeWeek/Develop/index.html
